@@ -7,3 +7,6 @@ Spread: Betting lines for the point spread of each game.
 Total: Betting lines for the over/under (total points) for each game.
 Moneyline (ML): Betting lines for moneyline odds for each team.
 Saves the scraped data into a CSV file called NBAgame_lines_of_the_day.csv for later use.
+
+**Updates**
+Updated the script to account for when there are multiple games per day 
