@@ -10,3 +10,6 @@ Saves the scraped data into a CSV file called NBAgame_lines_of_the_day.csv for l
 
 **Updates**
 Updated the script to account for when there are multiple games per day 
+
+**Disclaimer**
+This uses the best odds column on Action network that is why there may be a little discrepancy for some of the lines  
